@@ -3,7 +3,7 @@
     "gitAuthor": "SCS Renovate Bot <renovatebot@scs.community>",
     "dependencyDashboard": "true",
     "enabledManagers": [
-        "helm"
+        "helmv3"
     ]
 }
 
