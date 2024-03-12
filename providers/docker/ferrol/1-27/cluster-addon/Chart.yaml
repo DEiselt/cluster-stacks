@@ -11,6 +11,6 @@ maintainers:
     url: https://github.com/syself
 dependencies:
   - name: "metrics-server"
-    version: "3.11.0"
+    version: "3.12.0"
     repository: "https://kubernetes-sigs.github.io/metrics-server/"
     alias: "metrics-server"
