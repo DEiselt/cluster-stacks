@@ -7,7 +7,7 @@ dependencies:
 - alias: cilium
   name: cilium
   repository: https://helm.cilium.io/ 
-  version: 1.15.0
+  version: 1.15.1
 - alias: openstack-cloud-controller-manager
   name: openstack-cloud-controller-manager
   repository: https://kubernetes.github.io/cloud-provider-openstack
